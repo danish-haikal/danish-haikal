@@ -4,7 +4,7 @@ Some call me Danish, some call me Dekal — either works!
 Final-year IT student at UTP. I love building apps that solve my own everyday problems.
 Currently finishing my FYP (viva on 23 December 2026) and DevOps training with **Infratify** (completing 25 November 2026).
 
-🟢 **Interested to DevOps or PowerApps roles** — [reach out](mailto:danishhaikal587@gmail.com)
+🟢 **Interested to DevOps or PowerApps roles** — [reach out to me here!](mailto:danishhaikal587@gmail.com)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-haikal&layout=compact&theme=tokyonight&hide_border=true" height="160" />
